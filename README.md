@@ -1,6 +1,4 @@
-# Batash
- Weather App
-
+# Batash - Weather App
 
 Batash: Unwind the Weather, Crafted in Kotlin
 Batash isn't just another weather app. It's a breath of fresh air, built with the elegance and precision of Kotlin, a modern programming language. Forget clunky interfaces and generic forecasts. Batash delivers a sleek, intuitive experience that puts the weather at your fingertips in a way that feels personal and delightful.
